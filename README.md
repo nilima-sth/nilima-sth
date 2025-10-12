@@ -8,14 +8,14 @@
 
 # Skills
 ## 🔧 Technical Skills:
-* Languages: Python, JavaScript, C/C++, HTML/CSS 
+* Languages: Python, PostgreSQL, JavaScript, C/C++, HTML/CSS, C#
 * Libraries: Numpy, Tkinter, Pandas, Matplotlib 
-* Development tools: Git, GitHub, VS Code, PyCharm, Code block, Oracle SQL Developer 
-* Database: PL/SQL, MySQL 
-* Figma, WordPress 
+* Development tools: Git, GitHub, VS Code, Code block, Oracle SQL Developer 
+* Database: PostgreSQL, MySQL 
+* Figma, WordPress, Canva
 
 ## Soft Skills:
-* Leadership, Event organizer
+* Leadership, Event organizer, Event Hosting
 * Time management, presentation skills, problem-solving 
 * Teamwork, and Good Communication Skills 
 
