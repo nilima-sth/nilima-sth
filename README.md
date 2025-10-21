@@ -2,7 +2,7 @@
 
 # Hi👋, I am Nilima Shrestha and welcome to my profile!
 * Computer Science and Information Technology student at St. Xavier's College
-* Very Passionate about Data Science, Artificial Intelligence, Machine Learning and Data Engineering
+* Very Passionate about Data Science- Artificial Intelligence & Machine Learning and Data Engineering
 * Future AI Engineer 
 * Graduating soon
 
