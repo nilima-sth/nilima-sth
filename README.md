@@ -3,7 +3,6 @@
 # Hi👋, I am Nilima Shrestha and welcome to my profile!
 * Computer Science and Information Technology student at St. Xavier's College
 * Very Passionate about Data Science- Artificial Intelligence & Machine Learning and Data Engineering
-* Future AI Engineer 
 * Graduating soon
 
 # Skills
@@ -11,8 +10,9 @@
 * Languages: Python, PostgreSQL, JavaScript, C/C++, HTML/CSS, C#
 * Libraries: Numpy, Tkinter, Pandas, Matplotlib 
 * Development tools: Git, GitHub, VS Code, Code block, Oracle SQL Developer 
-* Database: PostgreSQL, MySQL 
-* Figma, WordPress, Canva
+* Database: PostgreSQL, MySQL
+* ERP: Odoo19
+* Figma, Canva
 
 ## Soft Skills:
 * Leadership, Event organizer, Event Hosting
