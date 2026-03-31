@@ -1,18 +1,19 @@
 <h1 align="center"> nilimashrestha <h1>
 
 # Hi👋, I am Nilima Shrestha and welcome to my profile!
-* Computer Science and Information Technology student at St. Xavier's College
+<img height="200" src="https://i.imgflip.com/a6k5on.gif" />
+* Computer Science and Information Technology student at St. Xavier's College, Maitighar
 * Very Passionate about Data Science- Artificial Intelligence & Machine Learning and Data Engineering
 * Graduating soon
 
 # Skills
 ## 🔧 Technical Skills:
 * Languages: Python, PostgreSQL, JavaScript, C/C++, HTML/CSS, C#
-* Libraries: Numpy, Tkinter, Pandas, Matplotlib 
-* Development tools: Git, GitHub, VS Code, Code block, Oracle SQL Developer 
+* Libraries: numpy, tkinter, pandas, matplotlib, tensorflow, scikit-learn, pytorch, opencv, yolo
+* Development tools: Git, GitHub
 * Database: PostgreSQL, MySQL
-* ERP: Odoo19
-* Figma, Canva
+* ERP System: Odoo19
+* Designing Tools: Figma, Canva
 
 # Tech Stacks
 <div align="left">
@@ -51,7 +52,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-<div> 
+<div>
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-F37626?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -66,8 +67,7 @@
 </div>
 
 # 🤝 Connect with me
-  <img height="200" src="https://i.imgflip.com/a6k5on.gif" /> 
-<h3 align="left">CLick:</h3>
+<h3 align="left">click:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nilima-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilima-shrestha" height="30" width="40" /></a>
 <a href="https://instagram.com/nilimashreastha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nilimashreastha" height="30" width="40" /></a>
