@@ -14,11 +14,6 @@
 * ERP: Odoo19
 * Figma, Canva
 
-## Soft Skills:
-* Leadership, Event organizer, Event Hosting
-* Time management, presentation skills, problem-solving 
-* Teamwork, and Good Communication Skills 
-
 # Tech Stacks
 <div align="left">
   <img width="12" />
