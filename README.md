@@ -5,7 +5,7 @@
 
 * Computer Science and IT student at St. Xavier's College, Maitighar
 * Very passionate about Data Science, AI & ML, and Data Engineering
-* Graduating soon
+* Graduating soon (2027)
 
 # Skills
 
@@ -65,7 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" />
 </div>
 
-# 🤝 Connect with me
+# 🤝 Connect
 <div align="left">
   <a href="https://linkedin.com/in/nilima-shrestha" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
