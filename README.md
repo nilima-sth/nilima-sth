@@ -23,7 +23,7 @@
 ### 📚 Libraries & Frameworks:
 <table width="400px" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
   <tr height="90px" style="border: none;">
-    <td align="center" width="133px" style="border: none;">
+    <td align="center" width="150px" style="border: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" height="75" />
     </td>
     <td align="center" width="133px" style="border: none;">
