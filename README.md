@@ -1,6 +1,6 @@
 <h1 align="center">nilimashrestha</h1>
 
-# Helllllo 👋, I am Nilima Shrestha
+# Hi 👋, I am Nilima Shrestha
 <img height="200" src="https://i.imgflip.com/a6k5on.gif" />
 
 * Computer Science and IT student at St. Xavier's College, Maitighar
