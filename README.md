@@ -8,7 +8,7 @@
 * Graduating soon (2027) 
 
 # Skills
-
+   
 ## 🔧 Technical Skills
 ### 💻 Languages:
 <div align="left">
