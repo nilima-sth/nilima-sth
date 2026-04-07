@@ -5,7 +5,7 @@
 
 * Computer Science and IT student at St. Xavier's College, Maitighar
 * Very passionate about Data Science, AI & ML, and Data Engineering
-* Graduating soon (2027)
+* Graduating soon (2027) 
 
 # Skills
 
