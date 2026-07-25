@@ -1,7 +1,9 @@
 <h1 align="center">nilimashrestha</h1>
 
 # Hi 👋, I am Nilima Shrestha
-<img height="200" src="https://i.imgflip.com/a6k5on.gif" />
+<p align="center">
+  <img src="https://i.imgflip.com/a6k5on.gif" height="180" alt="coding gif" />
+</p>
 
 * Computer Science and IT student at St. Xavier's College, Maitighar
 * Very passionate about Data Science, AI & ML, and Data Engineering
@@ -63,7 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" />
 </div>
 
-# 🤝 Connect With Me:
+# 🤝 Let's Connect
 <div align="left">
   <a href="https://linkedin.com/in/nilima-shrestha" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
@@ -75,3 +77,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
   </a>
 </div>
+
+<p align="center"><i>"Still learning. Always curious."</i></p>
+
